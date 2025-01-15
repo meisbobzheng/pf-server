@@ -1,1 +1,1 @@
-CREATE DATABASE pathfinder;
+CREATE DATABASE packed;

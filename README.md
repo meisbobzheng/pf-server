@@ -1,4 +1,4 @@
-# pf-server
+# packed-server
 
 First, run `docker compose up --build` to build docker.
 
